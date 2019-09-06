@@ -1,13 +1,13 @@
 {
   "name": "riqra-challenge-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Riqra Challenge",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RenaruX-PW/riqra-challenge-server.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Renato Berrocal",
   "license": "ISC",
   "dependencies": {
     "body-parser-graphql": "^1.1.0",
